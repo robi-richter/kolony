@@ -5,6 +5,7 @@ exports.app = require("./lib/app.js");
 exports.container = require("./lib/container.js");
 exports.worker = require("./lib/worker.js");
 exports.module = require("./lib/module.js");
+exports.orm = require("kolony-orm");
 exports.model = require("./lib/module/model.js");
 exports.common = {
     debug : require("debug"),
