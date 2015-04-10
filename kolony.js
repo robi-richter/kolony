@@ -18,25 +18,19 @@ exports.common = {
     slug: require("slug")
 }
 
-    //app:
-    //orm: require("kolony-orm"),
+/**
+ *
+ * ALL CODE BELOW NEEDS TO BE REOVED, left in place to check if there's any dependency that might be needed later + backwords compatibility checking
+ *
+ */
 
-    //worker: require('./lib/worker.js')
     //pad: require('node-string-pad'),
     //token: require('rand-token'),
     //slug: require("slug"),
-    //hooker: require('hooker'),
     //pluralize : require("pluralize"),
-    //colors : require("colors"),
-    //_ : require("underscore"),
     //redis : require("redis"),
     //redisTagging : require("redis-tagging"),
-    //debug : require("debug"),
-    //cluster : require("cluster"),
-    //express : require("express"),
     //expressSession: require('express-session'),
-    //bodyParser : require('body-parser'),
-    //multer: require('multer'),
     //hiredis : require("hiredis"),
     //mongodb : require("mongodb"),
     //mongoose : require("mongoose"),
@@ -49,20 +43,3 @@ exports.common = {
     //camelize: require("camelize"),
     //cron: require("cron"),
     //moment: require("moment"),
-    //passport: require("passport"),
-    //ejs: require("ejs"),
-    //kolony: require("./lib/kolony.js"),
-    //io:{
-    //    client:{
-    //        socketIO: require("./lib/io/client/socketIO.js"),
-    //        redis: require("./lib/io/client/redis.js")
-    //    },
-    //    gateway: require("./lib/io/gateway")
-    //},
-    //px:{
-    //    api: require("./lib/px.api.js"),
-    //    controller: require("./lib/px.controller.js"),
-    //    model: require("./lib/px.model.js"),
-    //    ui: require("./lib/px.ui.js"),
-    //    fixtures: require("./lib/px.fixtures.js")
-    //}
