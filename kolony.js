@@ -13,6 +13,7 @@ exports.common = {
     path: require("path"),
     async: require("async"),
     uniqueValidator: require('mongoose-unique-validator'),
+    validate: require('mongoose-validator'),
     createdModifiedPlugin: require('mongoose-createdmodified').createdModifiedPlugin,
     pluralize : require("pluralize"),
     slug: require("slug")
