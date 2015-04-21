@@ -1,5 +1,4 @@
-var debug = require(debug),
-    async = require(async);
+var debug = require(debug);
 function ModuleSystemController(module){
     var self = require("./px.controller.js")({
             skipDefaultActionsInit: false,
