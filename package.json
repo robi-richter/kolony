@@ -30,7 +30,7 @@
     "hooker": "^0.2.3",
     "moment": "^2.8.4",
     "mongodb": "~1.4.8",
-    "mongoose": "^4.0.2,
+    "mongoose": "^4.0.2",
     "mongoose-createdmodified": "0.0.2",
     "mongoose-unique-validator": "^0.4.1",
     "mongoose-validator": "^1.0.2",
