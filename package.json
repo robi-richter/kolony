@@ -1,14 +1,14 @@
 {
-  "name": "kolony",
+  "name": "kolony-core",
   "version": "0.0.1",
-  "description": "kolony",
+  "description": "kolony-core",
   "main": "kolony.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:KolonyIO/kolony.git"
+    "url": "git@github.com:KolonyIO/kolony-core.git"
   },
   "author": {
     "name": "Cristian Moldovan"
