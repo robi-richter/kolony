@@ -50,7 +50,7 @@
     "socket.io-client": "~1.0.6",
     "underscore": "^1.6.0",
     "wrench": "^1.5.8",
-    "kolony-orm": "git@github.com:KolonyIO/kolony-orm.git"
+    "kolony-orm": "KolonyIO/kolony-orm"
   },
   "readme": "ERROR: No README data found!"
 }
